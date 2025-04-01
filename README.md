@@ -2,6 +2,8 @@
 
 This repository provides scripts to deploy a STAC API on Azure.
 
+![Infrastructure diagram](infra.png)
+
 ## Overview
 
 The goal of this project is to create a relatively **simpler, single-container deployment** of a STAC API suitable for running on Azure services like Azure Container Apps (ACA).
